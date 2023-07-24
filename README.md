@@ -28,3 +28,4 @@ npm run dev
 npm run build
 ```
 # vue-web-worker-load-threejs-model
+# vue-web-worker-load-threejs-model
